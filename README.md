@@ -1,1 +1,1 @@
-A simple website for exploring the nature by seeeing pictures and videos of different places.
+A simple website for exploring the nature by seeing the pictures and videos of different places.
